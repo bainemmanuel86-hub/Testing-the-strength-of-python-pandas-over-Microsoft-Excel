@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Author
 **Doctor Abdullahi Bain Oduwo**
-AI/ML/Data Scientist Engineer — Yimash Global Hospital
+AI/ML/Data Scientist Engineer
 
 ## 📋 What This Project Covers
 This project tests whether Python Pandas
@@ -69,12 +69,6 @@ can completely replace Microsoft Excel.
 - Seaborn
 - SQLite3
 - Google Colab
-
-## 🏥 Hospital
-**Yimash Global Hospital**
-- Contact: +254707862452
-- Email: yimash@admin.com
-- Social: @YimashGlobal
 
 ## 📁 Files
 - `*.ipynb` — Jupyter notebooks with all code
